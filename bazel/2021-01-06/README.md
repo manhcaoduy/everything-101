@@ -1,0 +1,1 @@
+The simple-java-bazel is done based on [this link](https://medium.com/@abhbose6/bazel-101-2b0272b15da8).
